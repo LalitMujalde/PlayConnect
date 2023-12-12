@@ -1,7 +1,3 @@
-Certainly! Here's a template for a README file for your PlayConnect Flutter mobile application:
-
----
-
 # PlayConnect - Flutter Mobile Application
 
 PlayConnect is a social platform mobile application developed using Flutter, providing a space for players to connect and discover nearby playgrounds.
